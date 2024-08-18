@@ -1,0 +1,752 @@
+[
+    {
+        "id": 1,
+        "title": "Bradley Burgess 2",
+        "imgf": "product-1.jpg",
+        "imgb": "product-2.jpg",
+        "category": [
+            {
+                "type": "Kids"
+            }
+        ],
+        "color": [
+            {
+                "type": "Black"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Adidas"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 20
+        }
+    },
+    {
+        "id": 2,
+        "title": "Allie Sharp",
+        "imgf": "product-3.jpg",
+        "imgb": "product-4.jpg",
+        "category": [
+            {
+                "type": "Mens"
+            }
+        ],
+        "color": [
+            {
+                "type": "Blue"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Balenciaga"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 30
+        }
+    },
+    {
+        "id": 3,
+        "title": "Nathaniel Baldwin",
+        "imgf": "product-5.jpg",
+        "imgb": "product-6.jpg",
+        "category": [
+            {
+                "type": "Womens"
+            }
+        ],
+        "color": [
+            {
+                "type": "Gray"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Balmain"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 40
+        }
+    },
+    {
+        "id": 4,
+        "title": "Effie Rios",
+        "imgf": "product-7.jpg",
+        "imgb": "product-8.jpg",
+        "category": [
+            {
+                "type": "Mens"
+            }
+        ],
+        "color": [
+            {
+                "type": "Green"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Burberry"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 40
+        }
+    },
+    {
+        "id": 5,
+        "title": "Carolyn Goodwin",
+        "imgf": "product-9.jpg",
+        "imgb": "product-10.jpg",
+        "category": [
+            {
+                "type": "Kids"
+            }
+        ],
+        "color": [
+            {
+                "type": "Black"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Adidas"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 50
+        }
+    },
+    {
+        "id": 6,
+        "title": "Evelyn Patton",
+        "imgf": "product-11.jpg",
+        "imgb": "product-12.jpg",
+        "category": [
+            {
+                "type": "Mens"
+            }
+        ],
+        "color": [
+            {
+                "type": "Red"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Chloe"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 60
+        }
+    },
+    {
+        "id": 7,
+        "title": "Sally Ray",
+        "imgf": "product-13.jpg",
+        "imgb": "product-14.jpg",
+        "category": [
+            {
+                "type": "Womens"
+            }
+        ],
+        "color": [
+            {
+                "type": "Blue"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Balenciaga"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 70
+        }
+    },
+    {
+        "id": 8,
+        "title": "Ora Bowman",
+        "imgf": "product-15.jpg",
+        "imgb": "product-16.jpg",
+        "category": [
+            {
+                "type": "Mens"
+            }
+        ],
+        "color": [
+            {
+                "type": "Gray"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Balmain"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 80
+        }
+    },
+    {
+        "id": 9,
+        "title": "Frederick Valdez",
+        "imgf": "product-17.jpg",
+        "imgb": "product-18.jpg",
+        "category": [
+            {
+                "type": "Kids"
+            }
+        ],
+        "color": [
+            {
+                "type": "Green"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Burberry"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 90
+        }
+    },
+    {
+        "id": 10,
+        "title": "Terry Byrd",
+        "imgf": "product-19.jpg",
+        "imgb": "product-20.jpg",
+        "category": [
+            {
+                "type": "Womens"
+            }
+        ],
+        "color": [
+            {
+                "type": "Red"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Chloe"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 100
+        }
+    },
+    {
+        "id": 11,
+        "title": "Angel Jimenez",
+        "imgf": "product-21.jpg",
+        "imgb": "product-22.jpg",
+        "category": [
+            {
+                "type": "Kids"
+            }
+        ],
+        "color": [
+            {
+                "type": "Black"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Adidas"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 20
+        }
+    },
+    {
+        "id": 12,
+        "title": "Phoebe Arnold",
+        "imgf": "product-23.jpg",
+        "imgb": "product-24.jpg",
+        "category": [
+            {
+                "type": "Mens"
+            }
+        ],
+        "color": [
+            {
+                "type": "Blue"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Balenciaga"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 30
+        }
+    },
+    {
+        "id": 13,
+        "title": "Cordelia Ryan",
+        "imgf": "product-25.jpg",
+        "imgb": "product-26.jpg",
+        "category": [
+            {
+                "type": "Womens"
+            }
+        ],
+        "color": [
+            {
+                "type": "Gray"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Balmain"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 40
+        }
+    },
+    {
+        "id": 14,
+        "title": "Louisa Conner",
+        "imgf": "product-27.jpg",
+        "imgb": "product-28.jpg",
+        "category": [
+            {
+                "type": "Mens"
+            }
+        ],
+        "color": [
+            {
+                "type": "Green"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Burberry"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 40
+        }
+    },
+    {
+        "id": 15,
+        "title": "Elnora Swanson",
+        "imgf": "product-29.jpg",
+        "imgb": "product-30.jpg",
+        "category": [
+            {
+                "type": "Kids"
+            }
+        ],
+        "color": [
+            {
+                "type": "Black"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Adidas"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 50
+        }
+    },
+    {
+        "id": 16,
+        "title": "Georgie Olson",
+        "imgf": "product-31.jpg",
+        "imgb": "product-32.jpg",
+        "category": [
+            {
+                "type": "Mens"
+            }
+        ],
+        "color": [
+            {
+                "type": "Red"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Chloe"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 60
+        }
+    },
+    {
+        "id": 17,
+        "title": "Frank Cummings",
+        "imgf": "product-33.jpg",
+        "imgb": "product-34.jpg",
+        "category": [
+            {
+                "type": "Womens"
+            }
+        ],
+        "color": [
+            {
+                "type": "Blue"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Balenciaga"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 70
+        }
+    },
+    {
+        "id": 18,
+        "title": "Lula Pope",
+        "imgf": "product-35.jpg",
+        "imgb": "product-36.jpg",
+        "category": [
+            {
+                "type": "Mens"
+            }
+        ],
+        "color": [
+            {
+                "type": "Gray"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Balmain"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 80
+        }
+    },
+    {
+        "id": 19,
+        "title": "Brian Silva",
+        "imgf": "product-37.jpg",
+        "imgb": "product-38.jpg",
+        "category": [
+            {
+                "type": "Kids"
+            }
+        ],
+        "color": [
+            {
+                "type": "Green"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Burberry"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 90
+        }
+    },
+    {
+        "id": 20,
+        "title": "Pearl Bowen",
+        "imgf": "product-39.jpg",
+        "imgb": "product-40.jpg",
+        "category": [
+            {
+                "type": "Womens"
+            }
+        ],
+        "color": [
+            {
+                "type": "Red"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Chloe"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 100
+        }
+    },
+    {
+        "id": 21,
+        "title": "Georgia Price",
+        "imgf": "product-41.jpg",
+        "imgb": "product-42.jpg",
+        "category": [
+            {
+                "type": "Kids"
+            }
+        ],
+        "color": [
+            {
+                "type": "Black"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Adidas"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 20
+        }
+    },
+    {
+        "id": 22,
+        "title": "Kenneth Mitchell",
+        "imgf": "product-43.jpg",
+        "imgb": "product-44.jpg",
+        "category": [
+            {
+                "type": "Mens"
+            }
+        ],
+        "color": [
+            {
+                "type": "Blue"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Balenciaga"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 30
+        }
+    },
+    {
+        "id": 23,
+        "title": "Florence Sharp",
+        "imgf": "product-45.jpg",
+        "imgb": "product-46.jpg",
+        "category": [
+            {
+                "type": "Womens"
+            }
+        ],
+        "color": [
+            {
+                "type": "Gray"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Balmain"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 40
+        }
+    },
+    {
+        "id": 24,
+        "title": "Myrtie Parks",
+        "imgf": "product-47.jpg",
+        "imgb": "product-48.jpg",
+        "category": [
+            {
+                "type": "Mens"
+            }
+        ],
+        "color": [
+            {
+                "type": "Green"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Burberry"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 40
+        }
+    },
+    {
+        "id": 25,
+        "title": "Dollie Delgado",
+        "imgf": "product-49.jpg",
+        "imgb": "product-50.jpg",
+        "category": [
+            {
+                "type": "Kids"
+            }
+        ],
+        "color": [
+            {
+                "type": "Black"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Adidas"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 50
+        }
+    },
+    {
+        "id": 26,
+        "title": "Jim Warner",
+        "imgf": "product-51.jpg",
+        "imgb": "product-52.jpg",
+        "category": [
+            {
+                "type": "Mens"
+            }
+        ],
+        "color": [
+            {
+                "type": "Red"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Chloe"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 60
+        }
+    },
+    {
+        "id": 27,
+        "title": "Ryan Hale",
+        "imgf": "product-53.jpg",
+        "imgb": "product-54.jpg",
+        "category": [
+            {
+                "type": "Womens"
+            }
+        ],
+        "color": [
+            {
+                "type": "Blue"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Balenciaga"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 70
+        }
+    },
+    {
+        "id": 28,
+        "title": "Louisa Ruiz",
+        "imgf": "product-55.jpg",
+        "imgb": "product-56.jpg",
+        "category": [
+            {
+                "type": "Mens"
+            }
+        ],
+        "color": [
+            {
+                "type": "Gray"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Balmain"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 80
+        }
+    },
+    {
+        "id": 29,
+        "title": "Agnes Goodman",
+        "imgf": "product-57.jpg",
+        "imgb": "product-58.jpg",
+        "category": [
+            {
+                "type": "Kids"
+            }
+        ],
+        "color": [
+            {
+                "type": "Green"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Burberry"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 90
+        }
+    },
+    {
+        "id": 30,
+        "title": "Augusta Tran",
+        "imgf": "product-59.jpg",
+        "imgb": "product-60.jpg",
+        "category": [
+            {
+                "type": "Womens"
+            }
+        ],
+        "color": [
+            {
+                "type": "Red"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Chloe"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 100
+        }
+    }
+]
